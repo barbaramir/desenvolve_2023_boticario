@@ -1,0 +1,91 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Imagem de fundo do cabeçalho */ 
+.app-background {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(../img/banner-barb.jpg);
+    height: 550px;
+}
+
+ /* Cabeçalho - Logo e Menu de navegação */
+.cabecalho {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+/* Menu de navegação */ 
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: #00a6f1;
+    transition: 0.2s;
+    text-decoration: none;
+}
+
+.body-container {
+    margin: 20% 0 0 0;
+}
+
+/* Rodapé da página */ 
+footer {
+    text-align: center;
+    background: url("../img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+@media screen and (max-width: 940px) {
+    .app-background {
+        background: #292929;
+        width: 100vw;
+    }
+
+    .cabecalho {
+        display: block;
+        width: 100%; 
+        margin: 0 auto;
+    }
+
+    .body-container {
+        background: #FEFEFE;
+    }
+    
+    nav {
+        position: static;
+        text-align: center;
+        line-height: 1.5;
+        margin: 15px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+}    

@@ -1,0 +1,90 @@
+/* -------------- Css Contato -------------- */
+
+table {
+    display: inline-block;
+    width: 100%;
+    padding: 5% 40% 0 40%;
+    box-sizing: border-box;  
+}
+
+thead {
+    background: #292929;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+    width: 30%;
+}
+
+.formulario {
+    display: inline-block;
+    width: 99vw;
+    box-sizing: border-box;
+    padding: 5% 25% 5% 25%;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 100%;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    width: 30%;
+    padding: 15px 0;
+    background:#00a6f1;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background:#0074A8;
+}
+
+@media screen and (max-width: 940px) {
+    form label, form legend, .checkbox {
+        margin: 0 5% 10px 5%;
+    }
+
+    form fieldset select {
+        margin: 10px 5% 10px 5%;
+    }
+
+    .input-padrao {
+        margin: 0 5% 20px 5%;
+        width: 70%;
+    }
+
+    .enviar {
+        margin: 5px 5% 0 5%;
+        width: 70%;
+    }
+
+    table {
+        padding: 10% 15% 10% 15%;
+    }
+
+    .formulario {
+        padding: 10%;
+    }
+}    

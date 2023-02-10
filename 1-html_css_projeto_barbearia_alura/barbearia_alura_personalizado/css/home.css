@@ -1,0 +1,97 @@
+/* -------------- Css Home -------------- */
+
+/* Quem somos - Imagem e texto */
+.principal {
+    padding: 5% 15% 5% 15%;
+    background: #FEFEFE;
+    width: 70%;
+}
+
+/* Quem somos - Título */
+.titulo-principal {
+    text-transform: uppercase;
+    text-align: center;
+    color: #00a6f1;
+    font-size: 2.5em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+/* Quem somos - Texto */
+.principal p {
+    display: inline-block;
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.8rem;
+    padding: 1% 0 1% 5%;
+    width: 65%;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+/* Quem somos - Imagem */
+.utensilios {
+    width: 30%;
+    float: left;
+}
+
+/* Benefícios - Imagem e texto*/
+.beneficios {
+    padding: 3em 0;
+    background: #292929;
+}
+
+.conteudo-beneficios {
+    padding: 2.5% 15% 5% 15%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    font-size: 1.2em;
+    line-height: 1.8em;
+    color: #FFFFFF;
+}
+
+.itens:before {
+    content: "|";
+    padding: 0 10px 0 0;
+}
+
+.imagem-beneficios {
+    width: 60%;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: #FEFEFE;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.mapa-conteudo {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.video {
+    background: #292929;
+    width: 70%;
+    margin: 5% auto 5% auto;
+}
