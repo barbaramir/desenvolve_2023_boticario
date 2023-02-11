@@ -4,7 +4,7 @@
 O Desenvolve é um programa de formação e inclusão dos mais diversos talentos em tecnologia oferecido pelo Grupo Boticário. Para mais informações sobre o programa, [clique aqui](https://desenvolve.grupoboticario.com.br/)
 
 ## :pencil: Repositório
-<p>Este repositório foi criado com o intuito de compartilhar os exercícios e projetos desenvolvidos ao longo do programa, com enfoque na trilha FullStack, que abrangerá cursos de front-end, back-end, banco de dados, entre outros. A emenda completa pode ser conferida neste [link] (https://docs.google.com/document/d/e/2PACX-1vSTqGIQmYOGVidAtuJF0MyoO63kf9q9lDKW9KHMzLazbJjJfp-dzGWYAIA9_v1HCraTGhQ0be2cMp0y/pub).
+<p>Este repositório foi criado com o intuito de compartilhar os exercícios e projetos desenvolvidos ao longo do programa, com enfoque na trilha FullStack, que abrangerá cursos de front-end, back-end, banco de dados, entre outros. A emenda completa pode ser conferida [clique aqui](https://desenvolve.grupoboticario.com.br/)
 
 ## :white_check_mark: Projetos Desenvolvidos
 1- Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
