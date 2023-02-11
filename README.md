@@ -8,7 +8,7 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 
 ## :white_check_mark: Projetos Desenvolvidos
 1- Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
-2- Projeto do site Alurinha desenvolvido ao longo do curso de Flexbox: posicione elementos na tela na formação de Front End da Alura.
+<br>2- Projeto do site Alurinha desenvolvido ao longo do curso de Flexbox: posicione elementos na tela na formação de Front End da Alura.
 
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
