@@ -40,11 +40,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autores
 <a href="https://github.com/barbaramir">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101302079?s=400&u=d13ec9e6994cd183223e15caeb5599afe49b9093&v=4" width="100px;" alt=""/>
- <br />
+ <br/>
    <p>Bárbara Mirelli</p>
 
-
-Feito com ❤️ por Bárbara Mirelli 👋🏽 Entre em contato!
+   <p>Feito com ❤️ por Bárbara Mirelli 👋🏽 Entre em contato!</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Barbara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-mirelli/)](https://www.linkedin.com/in/barbara-mirelli/) 
 
