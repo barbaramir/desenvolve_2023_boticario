@@ -1,6 +1,9 @@
 <h1 align="center">Programa Desenvolve 2023 - Grupo Boticário</h1>
 
 ## :pencil: O Programa
+O Desenvolve é um programa de formação e inclusão dos mais diversos talentos em tecnologia oferecido pelo Grupo Boticário. Para mais informações sobre o programa, [clique aqui](https://desenvolve.grupoboticario.com.br/)
+
+
 <p>Repositório com exercícios e projetos desenvolvidos ao longo do Programa Desenvolve 2023, oferecido pelo Grupo Boticário em parceria com a Alura.</p>
 
 ## :white_check_mark: Projetos Desenvolvidos
