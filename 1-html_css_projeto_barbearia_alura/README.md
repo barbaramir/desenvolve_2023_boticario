@@ -19,3 +19,10 @@
 - `Contato`: Página para entrar em contato com a Barbearia Alura, contendo:
    - Horário de funcionamento 
    - Formulário de contato 
+   
+## :ballot_box_with_check: Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML 5
+- CSS 3
