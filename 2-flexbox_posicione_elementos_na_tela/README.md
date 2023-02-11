@@ -1,7 +1,7 @@
 <h1 align="center"> Site do Alurinha </h1>
 
 ## :pencil: Descrição do Projeto
-<p>Projeto do site Alurinha desenvolvido ao longo do curso de <b>Flexbox: posicione elementos na tela<b> na formação de Front End da Alura.</p>
+<p>Projeto do site Alurinha desenvolvido ao longo do curso de <b>Flexbox: posicione elementos na tela</b> na formação de Front End da Alura.</p>
 
 ## :pushpin: Status do Projeto
 <p>Projeto Finalizado :white_check_mark:</p>
