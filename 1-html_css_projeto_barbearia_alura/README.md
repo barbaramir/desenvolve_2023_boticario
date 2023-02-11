@@ -11,7 +11,11 @@
    - Localização, com mapa interativo importado do google maps
    - Vídeo de apresentação
  
-- `Produtos`: Página de produtos oferecidos em formato de cards:
+- `Produtos`: Página de produtos oferecidos em formato de cards - foram adicionados efeitos ao passar o mouse pelo cartão e de seleção do cartão:
    - Barba
    - Cabelo
    - Cabelo + Barba
+
+- `Contato`: Página para entrar em contato com a Barbearia Alura, contendo:
+   - Horário de funcionamento 
+   - Formulário de contato 
