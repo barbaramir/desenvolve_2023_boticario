@@ -1,6 +1,6 @@
 <h1 align="center">Programa Desenvolve 2023 - Grupo Boticário</h1>
 
-## :pencil: Descrição do Projeto
+## :pencil: O Programa
 <p>Repositório com exercícios e projetos desenvolvidos ao longo do Programa Desenvolve 2023, oferecido pelo Grupo Boticário em parceria com a Alura.</p>
 
 ## :white_check_mark: Projetos Desenvolvidos
