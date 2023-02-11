@@ -1,10 +1,10 @@
 <h1 align="center">Programa Desenvolve 2023 - Grupo Boticário</h1>
-## :pencil: O Programa
+## O Programa
 <p>Repositório com exercícios e projetos desenvolvidos ao longo do Programa Desenvolve 2023, oferecido pelo Grupo Boticário em parceria com a Alura.</p>
 
-## :white_check_mark:Projetos Desenvolvidos
+## :white_check_mark: Projetos Desenvolvidos
 1- Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
-2- 
+2- Projeto do site Alurinha desenvolvido ao longo do curso de Flexbox: posicione elementos na tela na formação de Front End da Alura.
 
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
