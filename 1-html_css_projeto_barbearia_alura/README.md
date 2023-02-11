@@ -7,4 +7,11 @@
 
 - `Home`: Página inicial da Barbearia contendo:
    - Quem somos
-   - 
+   - Benefícios
+   - Localização, com mapa interativo importado do google maps
+   - Vídeo de apresentação
+ 
+- `Produtos`: Página de produtos oferecidos em formato de cards:
+   - Barba
+   - Cabelo
+   - Cabelo + Barba
