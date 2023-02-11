@@ -6,6 +6,7 @@
    Foram desenvolvidas duas versões ao longo do curso: 
    <br>
    - Versão guiada (projeto original) seguindo as aulas do prof. Pedro Marins
+   <br>
    - Versão personalizada, com a customização do design e de algumas funcionalidades do projeto utilizando os conceitos abordados nas aulas</p>
 
 ## :pushpin: Status do Projeto
