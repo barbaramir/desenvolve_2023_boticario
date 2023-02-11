@@ -1,7 +1,7 @@
 <h1 align="center"> Site da Barbearia Alura </h1>
 
 ## :pencil: Descrição do Projeto
-<p>Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
+<p>Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de <b>HTML5 e CSS3: parte 1 a 4</b> na formação de Front End da Alura.
    <br>
    <br>
    Foram desenvolvidas duas versões ao longo do curso: 
@@ -17,10 +17,12 @@
 ## :hammer: Funcionalidades do projeto
 
 - `Home`: Página inicial da Barbearia contendo:
+   - Cabeçalho e menu de navegação
    - Quem somos
    - Benefícios
    - Localização, com mapa interativo importado do google maps
    - Vídeo de apresentação
+   - Rodapé da página
  
 - `Produtos`: Página de produtos oferecidos em formato de cards - foram adicionados efeitos ao passar o mouse pelo cartão e de seleção do cartão:
    - Barba
