@@ -2,7 +2,9 @@
 
 ## :pencil: Descrição do Projeto
 <p>Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
+   <br>
    Foram desenvolvidas duas versões ao longo do curso: 
+   <br>
    - Versão guiada (projeto original) seguindo as aulas do prof. Pedro Marins
    - Versão personalizada, com a customização do design e de algumas funcionalidades do projeto utilizando os conceitos abordados nas aulas</p>
 
