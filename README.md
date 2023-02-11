@@ -3,12 +3,11 @@
 <p>Repositório com exercícios e projetos desenvolvidos ao longo do Programa Desenvolve 2023, oferecido pelo Grupo Boticário em parceria com a Alura.</p>
 
 ## :white_check_mark:Projetos Desenvolvidos
-<br>1- Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
+1- Projeto do site da Barbearia Alura desenvolvido ao longo dos cursos de HTML5 e CSS3: parte 1 a 4 na formação de Front End da Alura.
+2- 
 
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
-
-As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML 5
 - CSS 3
