@@ -1,0 +1,97 @@
+:root {
+    --cinza-claro: #E7E7E7;
+    --cinza-escuro: #2E2E2E;
+
+    --fonte-principal: 'Roboto', sans-serif;
+}
+
+body {
+	background-color: var(--cinza-claro);
+	font-family: var(--fonte-principal);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.banner__principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    gap: 24px;
+}
+
+.avatar {
+    width: 100%;
+}
+
+.descricao__banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.titulo__principal {
+    color: var(--cinza-escuro);
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.botoes {
+    display: flex;
+    gap: 24px;
+}
+
+.botao__github {
+    background-image: url(../icons/github.svg);
+    width: 60px;
+    height: 60px;
+}
+
+.botao__linkedin {
+    background-image: url(../icons/linkedin.svg);
+    width: 60px;
+    height: 60px;
+}
+
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+
+.rodape-texto {
+    color: var(--cinza-escuro);
+    font-size: 12px;
+    text-align: center;
+}
+
+@media screen and (min-width: 640px) and (max-width: 1028px) { 
+    .banner__principal {
+        width: 448px;
+    }
+}
+
+@media screen and (min-width: 1028px) {    
+    .banner__principal {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .avatar {
+        width: 40%;
+    }
+
+    .descricao__banner {
+        align-items: flex-start;
+    }
+}
