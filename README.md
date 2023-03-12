@@ -13,7 +13,7 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 <br><br>
 3- Projeto do site Apeperia desenvolvido ao longo do curso de Layouts Responsivos: trabalhando com layouts mobile na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/3-projeto_apeperia)
 
-## :white_check_mark: Projetos Pessoais 
+## :bulb: Projetos Pessoais 
 * Página de Apresentação e Contato: Bárbara Mirelli - Clique [aqui](https://github.com/barbaramir/desenvolve_exercicio_perfil) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_exercicio_perfil/) para visualizar a página na web :)
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
