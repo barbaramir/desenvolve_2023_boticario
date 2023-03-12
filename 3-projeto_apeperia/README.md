@@ -1,19 +1,23 @@
 <h1 align="center"> Site da Apeperia </h1>
 
 ## :pencil: Descrição do Projeto
-<p>Projeto do site Alurinha desenvolvido ao longo do curso de <b>Flexbox: posicione elementos na tela</b> na formação de Front End da Alura.</p>
+<p>Projeto do site Apeperia desenvolvido ao longo do curso de <b>Layouts Responsivos: trabalhando com layouts mobile</b> na formação de Front End da Alura.</p>
 
 ## :pushpin: Status do Projeto
 <p>Projeto Finalizado :white_check_mark:</p>
 
 ## :hammer: Funcionalidades do projeto
 
-- `Index Alurinha`: Página inicial do Alurinha contendo:
+- `Index Apeperia`: Página inicial da Apeperia contendo:
    - Cabeçalho e menu de navegação
-   - Grid dos cursos disponíveis
-   - Vantagens do Alurinha com vídeo destaque
-   - Mapa de Cursos
-   - Rodapé da página 
+   - Banner de apresentação com botão de acesso aos planos de assinatura 
+   - Seção de Destaques com diferentes cartões e botão para receber os destaques por e-mail
+   - Seção de Diferencias da Apeperia 
+   - Sobre a plataforma 
+   - Planos disponíveis, com 3 cartões como opções
+   - Contato, com botão para entrar em contato
+   - Institucional com informações sobre a plataforma (endereço, e-mail e telefone) e um vídeo institucional
+   - Rodapé com menu de navegação e links para as redes sociais da Apeperia
 
 ## :ballot_box_with_check: Tecnologias utilizadas no projeto
 
