@@ -11,7 +11,7 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 <br><br>
 2- Projeto do site Alurinha desenvolvido ao longo do curso de Flexbox: posicione elementos na tela na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/2-flexbox_posicione_elementos_na_tela)
 <br><br>
-3- Projeto do site Apeperia desenvolvido ao longo do curso de Layouts Responsivos: trabalhando com layouts mobile - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/3-projeto_apeperia)
+3- Projeto do site Apeperia desenvolvido ao longo do curso de Layouts Responsivos: trabalhando com layouts mobile na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/3-projeto_apeperia)
 
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
