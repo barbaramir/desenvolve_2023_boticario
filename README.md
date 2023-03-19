@@ -15,6 +15,7 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 
 ## :bulb: Projetos Pessoais 
 * Página de Apresentação e Contato: Bárbara Mirelli - Clique [aqui](https://github.com/barbaramir/desenvolve_exercicio_perfil) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_exercicio_perfil/) para visualizar a página na web :)
+* Criação da página inicial do Programa Desenvolve - Clique [aqui](https://github.com/barbaramir/desenvolve_desafio_pagina-inicial) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_desafio_pagina-inicial/) para visualizar a página na web :)
  
 ## :ballot_box_with_check: Tecnologias utilizadas ao longo dos projetos
 
