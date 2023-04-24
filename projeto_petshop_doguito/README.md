@@ -1,7 +1,7 @@
 <h1 align="center"> Doguito PetShop </h1>
 
 ## :pencil: Descrição do Projeto
-<p>Validando os formulários de cadastro de cliente e cadastro de produto para o PetShop Doguito no curso de Javascript da Alura para a trilha Fullstack - Programa Desenvolve Boticário 2023</p>
+<p>Validação dos formulários de cadastro de cliente e cadastro de produto para o PetShop Doguito realizada ao longo do curso de Javascript da Alura para a trilha Fullstack - Programa Desenvolve Boticário 2023</p>
 
 ## :pushpin: Status do Projeto
 <p>Projeto Finalizado :white_check_mark:</p>
