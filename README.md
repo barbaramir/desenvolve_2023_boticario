@@ -12,7 +12,8 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 2- Projeto do site Alurinha desenvolvido ao longo do curso de Flexbox: posicione elementos na tela na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/2-flexbox_posicione_elementos_na_tela)
 <br><br>
 3- Projeto do site Apeperia desenvolvido ao longo do curso de Layouts Responsivos: trabalhando com layouts mobile na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/3-projeto_apeperia)<br><br>
-4- Projeto do Robotron 2000 desenvolvido ao longo do curso de JavaScript da Alura. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_robotron-2000)  ou visualize a [página na web](https://desenvolve-robotron-2000.vercel.app/). 
+4- Projeto do Robotron 2000 desenvolvido ao longo do curso de JavaScript da Alura. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_robotron-2000)  ou visualize a [página na web](https://desenvolve-robotron-2000.vercel.app/). <br><br>
+5- Validação dos formulários de cadastro de cliente e cadastro de produto para o site do PetShop Doguito realizada ao longo do curso de Javascript da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/projeto_petshop_doguito) 
 
 ## :bulb: Projetos Pessoais 
 * Página de Apresentação e Contato: Bárbara Mirelli - Clique [aqui](https://github.com/barbaramir/desenvolve_exercicio_perfil) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_exercicio_perfil/) para visualizar a página na web :)
