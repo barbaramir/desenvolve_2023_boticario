@@ -25,6 +25,9 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 - HTML 5
 - CSS 3
 - JavaScript
+- Node.js
+- MySQL
+- Postman
 
 ## Autores
 <a href="https://github.com/barbaramir">
