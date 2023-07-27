@@ -14,7 +14,8 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 - Projeto do site Apeperia desenvolvido ao longo do curso de Layouts Responsivos: trabalhando com layouts mobile na formação de Front End da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/3-projeto_apeperia)<br><br>
 - Projeto do Robotron 2000 desenvolvido ao longo do curso de JavaScript da Alura. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_robotron-2000)  ou visualize a [página na web](https://desenvolve-robotron-2000.vercel.app/). <br><br>
 - Validação dos formulários de cadastro de cliente e cadastro de produto para o site do PetShop Doguito realizada ao longo do curso de Javascript da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/projeto_petshop_doguito) <br><br>
-- API para gerenciamento de uma escola de inglês desenvolvida ao longo do curso de ORM com NodeJS: API com Sequelize e MySQL da Alura - [Acesse aqui o repositório](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/api-escola-de-ingles)
+- API para gerenciamento de uma escola de inglês desenvolvida ao longo do curso de ORM com NodeJS: API com Sequelize e MySQL da Alura - [Acesse aqui o repositório](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/api-escola-de-ingles)<br><br>
+- Aplicação de Sorteio de Amigo Secreto desenvolvido por meio do conceito de TDD: Test Driven Development (Desenvolvimento orientado a testes) ao longo do curso de React: Testando seus componentes. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_amigo-secreto)  ou visualize a [página na web](https://desenvolve-amigo-secreto.vercel.app/). <br><br>
 
 ## :bulb: Projetos Pessoais 
 * Página de Apresentação e Contato: Bárbara Mirelli - Clique [aqui](https://github.com/barbaramir/desenvolve_exercicio_perfil) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_exercicio_perfil/) para visualizar a página na web :)
@@ -28,6 +29,8 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 - Node.js
 - MySQL
 - Postman
+- React
+- TypeScript
 
 ## Autores
 <a href="https://github.com/barbaramir">
