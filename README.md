@@ -16,6 +16,8 @@ O Desenvolve é um programa de formação e inclusão dos mais diversos talentos
 - Validação dos formulários de cadastro de cliente e cadastro de produto para o site do PetShop Doguito realizada ao longo do curso de Javascript da Alura - [Acesse aqui](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/projeto_petshop_doguito) <br><br>
 - API para gerenciamento de uma escola de inglês desenvolvida ao longo do curso de ORM com NodeJS: API com Sequelize e MySQL da Alura - [Acesse aqui o repositório](https://github.com/barbaramir/desenvolve_2023_boticario/tree/main/api-escola-de-ingles)<br><br>
 - Aplicação de Sorteio de Amigo Secreto desenvolvido por meio do conceito de TDD: Test Driven Development (Desenvolvimento orientado a testes) ao longo do curso de React: Testando seus componentes. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_amigo-secreto)  ou visualize a [página na web](https://desenvolve-amigo-secreto.vercel.app/). <br><br>
+- Site do Restaurante Aluroni desenvolvido ao longo do curso de React: Conhecendo a biblioteca React Router. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_aluroni) ou visualize a [página na web](https://desenvolve-aluroni.vercel.app/)<br><br>
+- Calendário e lista de tarefas desenvolvida para estudos do gerenciamento de estados em React utilizado Recoil. Acesse aqui o [repositório](https://github.com/barbaramir/desenvolve_calendario)
 
 ## :bulb: Projetos Pessoais 
 * Página de Apresentação e Contato: Bárbara Mirelli - Clique [aqui](https://github.com/barbaramir/desenvolve_exercicio_perfil) para acessar o repositório ou [aqui](https://barbaramir.github.io/desenvolve_exercicio_perfil/) para visualizar a página na web :)
